@@ -168,7 +168,6 @@ const IndexBis = () => {
           </p>
           <div className="mb-8">
             <p className="text-base sm:text-lg md:text-xl text-gray-800" style={{ textShadow: '1px 1px 2px rgba(255,255,255,0.7)' }}>
-              <span className="text-green-600 font-semibold">{freeGamesCount} jeux gratuits</span> • <span className="text-blue-600 font-semibold">{premiumGamesCount} jeux premium <span className="text-sm">(4,99€)</span></span>
             </p>
           </div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
